@@ -1,4 +1,4 @@
-<?
+<?php
 class Modifier_close_tags extends Modifier
 {
     public function index($html, $parameters=array())
